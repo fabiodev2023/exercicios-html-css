@@ -1,0 +1,22 @@
+h1, h2, li{
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+.espacamento {
+    margin: 40px;
+    padding: 20px;
+}
+
+.p-padrao {
+    background-color: #F5F5F5;
+}
+
+.p-destacado {
+    background-color: #f0cce2;
+}
+
